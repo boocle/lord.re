@@ -182,7 +182,7 @@ Dans *layouts/index.html* :
   <body>
     Yoplaboum !
   </body>
-</htm>
+</html>
 ```
 
 Je vous avais prévenu c'est vraiment peu.
